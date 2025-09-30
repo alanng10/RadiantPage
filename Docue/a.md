@@ -7,3 +7,5 @@ Radiant Page is Page that done through shown out lay.
 Radiant Page is Page that done through shown out effect.
 
 Radiant Page is too un effective.
+
+Radiant Page is too un effective in Page Time.
